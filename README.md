@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @emf-czar
-- 👀 I’m interested in AI and Piano
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on AI Projects
+- 🌱 I’m currently learning R and C
 - 📫 How to reach me email at emerson.cortazar@duke.edu
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My Family Owns Two Dwarf Ponies
